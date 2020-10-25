@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Dhaval Mehta, a passionate self-taught Backend web developer from India.
+### Hi there 👋 I'm Dhaval Mehta, a passionate Backend Developer from India.
 
 - 🔭 I’m currently working on open source project [Django Rest Framework GIS](https://github.com/openwisp/django-rest-framework-gis)
 - 🌱 I’m currently learning Golang
