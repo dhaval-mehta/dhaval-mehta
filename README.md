@@ -6,5 +6,5 @@
 - 💬 Ask me about anything [here](https://github.com/dhaval-mehta/dhaval-mehta/issues)
 
 <a href="https://github.com/dhaval-mehta">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=dhaval-mehta&count_private=true&show_icons=true" alt="Dhaval's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=dhaval-mehta&count_private=true&show_icons=true&theme=dark" alt="Dhaval's github stats" />
 </a>
